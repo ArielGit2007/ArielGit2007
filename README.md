@@ -1,7 +1,11 @@
 ## Un saludo y gracias por revisar mi perfil 👋
 ### Buenos dias, tardes y noches.
 #### Mi presento mi nombre es Ariel una entusiasta y  pretendiete de la polimatía. Soy ecuatoriano y estuadiante de las Universidad De Las Américas.
-#### Tengo muchos intereses en los diversos lenguajes de programación, a si como en la inteligencia artificial y la cyberseguridad.
+#### Tengo muchos intereses en los diversos lenguajes de programación, a si como en la inteligencia artificial y la cyberseguridad. Pero prefiero centrarme en lo posible en el desarrollo de videojuegos.
+#### Actualmente me encuentro aprendiendo javascript, css y html. Estaría encantado por toda la ayuda que se me pueda brindar para avanzar en materias de desarrollo software. 
+#### Soy un hombre de muchos gustos, supongo que disfruto de las cosas buenas que me puede ofrecer la vida, por eso encontraran en mi multiples pasiones como la lectura,  las peliculas, el anime y demás.
+
+
 
 <!--
 **ArielGit2007/ArielGit2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
